@@ -1,0 +1,21 @@
+s = set()
+
+n1 = input("enter number 1 :")
+n2 = input("enter number 2 :")
+n3 = input("enter number 3 :")
+n4 = input("enter number 4 :")
+n5 = input("enter number 5 :")
+n6 = input("enter number 6 :")
+n7 = input("enter number 7 :")
+n8 = input("enter number 8 :")
+
+s.add(int(n1))
+s.add(int(n2))
+s.add(int(n3))
+s.add(int(n4))
+s.add(int(n5))
+s.add(int(n6))
+s.add(int(n7))
+s.add(int(n8))
+
+print(s)
